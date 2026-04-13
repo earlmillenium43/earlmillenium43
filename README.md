@@ -4,6 +4,6 @@
 
 👩🏻‍🎓 Studying Information Technology at the York University, Toronto, Canada
 
-🌷 #learninginpublic in my digital garden
+🌷 #Empty your cup in order to fill it again, Knowing is not enough, we must apply.
 
-💭 Currently learning about data analytics and dataviz!
+💭 Currently learning about Data Structure and Algorithms!
