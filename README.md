@@ -4,6 +4,6 @@
 
 👩🏻‍🎓 Studying Information Technology at the York University, Toronto, Canada
 
-🌷 #Empty your cup in order to fill it again, Knowing is not enough, we must apply.
+🌷 Empty your cup in order to fill it again, Knowing is not enough, we must apply.
 
 💭 Currently learning about Data Structure and Algorithms!
